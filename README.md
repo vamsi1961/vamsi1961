@@ -8,3 +8,11 @@
 vamsi1961/vamsi1961 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+Have to work on ros2, Work on Ros2 course
+
+Have to learn Maze simulator.
+
+Work on some basic NLP , Machine learning crash courses.
+
