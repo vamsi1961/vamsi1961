@@ -10,9 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-Have to work on ros2, Work on Ros2 course
-
-Have to learn Maze simulator.
-
-Work on some basic NLP , Machine learning crash courses.
 
